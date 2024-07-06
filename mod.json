@@ -1,8 +1,8 @@
 {
-  "name": "sandboxutilities",
-  "displayName": "Sandbox Utilities",
-  "author": "Cle",
-  "description": "Adds more sandbox utilities and blocks to make your sandbox experience better. Work in Progress.",
-  "subtitle": "More sandbox utilities.",
+  "name": "sandboxutilities_id",
+  "displayName": "Utilitas Kotak Pasir",
+  "author": "Rtiooo",
+  "description": "Menambahkan lebih banyak utilitas dan blok kotak pasir untuk menjadikan pengalaman kotak pasir Anda lebih baik. Pekerjaan Sedang Berlangsung.",
+  "subtitle": "Lebih banyak utilitas kotak pasir.",
   "minGameVersion": 136
 }
