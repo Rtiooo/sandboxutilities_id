@@ -1,7 +1,7 @@
 {
   "name": "Infibattery",
-  "type": "Battery",
-  "description": "Stores power in times of surplus energy. Outputs power in times of deficit. Huge power capacity. Sandbox only. ",
+  "type": "Baterai",
+  "description": "Menyimpan daya pada saat kelebihan energi. Menghasilkan daya pada saat defisit. Kapasitas daya yang besar. Hanya kotak pasir. ",
   "size": 1,
   "health": 50,
   "buildVisibility": "sandboxOnly",
